@@ -3,10 +3,24 @@ package Arrays_and_Strings;
 public class BasicSorts {
     public static void main(String[] args) {
         int[] arr = { 1, 20, 3, 4, 5, 0 };
-        // bubbleSort(arr); // O(n^2)
-        // selectionSort(arr); // O(n^2)
-        insertionSort(arr); // O(n^2)
+        int[] arr1 = { 1, 20, 3, 4, 5, 0 };
+        int[] arr2 = { 1, 20, 3, 4, 5, 0 };
+        bubbleSort(arr); // O(n^2)
+        selectionSort(arr1); // O(n^2)
+        insertionSort(arr2); // O(n^2)
+
+        System.out.println("bubbleSort:");
         for (int a : arr) {
+            System.out.print(a + " ");
+        }
+        System.out.println();
+        System.out.println("selectionSort:");
+        for (int a : arr1) {
+            System.out.print(a + " ");
+        }
+        System.out.println();
+        System.out.println("insertionSort:");
+        for (int a : arr2) {
             System.out.print(a + " ");
         }
     }
