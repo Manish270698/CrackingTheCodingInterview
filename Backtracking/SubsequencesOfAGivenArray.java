@@ -30,7 +30,7 @@ public class SubsequencesOfAGivenArray {
             }
             cur.add(arr.get(i));
             subsequenceFinder(ans, arr, cur, i+1);
-            cur.remove(cur.size()-1);
+            cur.remove(cur.size()-1); // Backtracking
         }
     }
 }

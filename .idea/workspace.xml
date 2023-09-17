@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backtracking/SmartKeypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/SubsequencesOfAGivenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/MultipleLeftRotationOfTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays_and_Strings/BasicSorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays_and_Strings/BasicSorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/PrintAllSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/PrintAllSubsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/Arrays_and_Strings/BasicSorts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Arrays_and_Strings/BasicSorts.class" afterDir="false" />
+    <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="&quot;new files added&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/SubsequencesOfAGivenArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/SubsequencesOfAGivenArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +81,18 @@
       <option name="presentableId" value="Default" />
       <updated>1694800481810</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;new files added&quot;">
+      <created>1694975476730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694975476730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;new files added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;new files added&quot;" />
   </component>
 </project>
