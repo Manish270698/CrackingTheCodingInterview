@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backtracking/SmartKeypad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/MultipleLeftRotationOfTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="&quot;new files added&quot;">
+      <change afterPath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/SumOfMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +56,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubsequencesOfAGivenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.SubsequencesOfAGivenArray" />
+      <module name="Cracking the coding interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MultipleLeftRotationOfTheArray" />
+        <item itemvalue="Application.SubsequencesOfAGivenArray" />
       </list>
     </recent_temporary>
   </component>
@@ -71,6 +85,28 @@
       <option name="presentableId" value="Default" />
       <updated>1694800481810</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;new files added&quot;">
+      <created>1694975476730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694975476730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;new files added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;new files added&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="&quot;new files added&quot;">
+      <change afterPath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/SumOfMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/SubsequencesOfAGivenArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/SubsequencesOfAGivenArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubsequencesOfAGivenArray" />
         <item itemvalue="Application.MultipleLeftRotationOfTheArray" />
+        <item itemvalue="Application.SubsequencesOfAGivenArray" />
       </list>
     </recent_temporary>
   </component>
@@ -94,5 +99,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;new files added&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;new files added&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
