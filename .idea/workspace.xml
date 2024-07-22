@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="&quot;new files added&quot;">
-      <change afterPath="$PROJECT_DIR$/Backtracking/NQueensProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision1/JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revision1/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Backtracking/NQueensProblem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revision1/OccurenceOfAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Revision1/OccurenceOfAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694975476730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;new files added&quot;">
+      <created>1721661815077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721661815077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
