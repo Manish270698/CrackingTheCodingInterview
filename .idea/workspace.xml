@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8078346e-6340-4748-9874-843ccbf8df78" name="Changes" comment="&quot;new files added&quot;">
-      <change afterPath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/SumOfMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/NQueensProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision1/JosephusProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision1/PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Backtracking/NQueensProblem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/CombinationSumProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cracking the coding interview/Recursion/PrintAllSubsets.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,45 +38,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="MultipleLeftRotationOfTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyChallenges.MultipleLeftRotationOfTheArray" />
-      <module name="Cracking the coding interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DailyChallenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsequencesOfAGivenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.SubsequencesOfAGivenArray" />
-      <module name="Cracking the coding interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MultipleLeftRotationOfTheArray" />
-        <item itemvalue="Application.SubsequencesOfAGivenArray" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

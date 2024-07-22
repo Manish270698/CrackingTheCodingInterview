@@ -9,7 +9,7 @@ public class CombinationSumProblem {
         int[] candidates = {8, 1, 3, 7, 2, 1, 5};
 
         Arrays.sort(candidates);
-        combinationSum(al, candidates, new ArrayList<>(), 0, sum);
+        CombinationSumProblem.combinationSum(al, candidates, new ArrayList<>(), 0, sum);
         for(List<Integer> a : al){
             System.out.println(a);
         }
